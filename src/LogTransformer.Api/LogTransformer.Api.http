@@ -1,0 +1,6 @@
+@LogTransformer.Api_HostAddress = http://localhost:5150
+
+GET {{LogTransformer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
